@@ -1,16 +1,18 @@
-# Personal Portfolio Website in React
+# Portfolio Website - Powered by React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository houses my personal portfolio website developed using [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+## Technology Stack
 
-Built using:
+The website is crafted using the following technologies:
 
-- Front-end library: React
+- Front-end framework: React
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-In the /personal-portfolio, you can run:
+## Usage
+
+To explore and interact with the project, follow these steps:
 
 ### `npm start`
 
