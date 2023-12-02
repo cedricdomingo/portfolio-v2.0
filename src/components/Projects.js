@@ -19,7 +19,7 @@ export const Projects = () => {
       description: "Web portfolio built HTML/CSS, JavaScript and Bootstrap.",
       imgUrl: projImg1,
       category: ["all", "web"],
-      githubLink: "LINK_TO_GITHUB_REPO_1"
+      githubLink: "https://github.com/cedricdomingo/GitHub-Portfolio-v1.0"
     },
     {
       title: "MACE Simple Search Engine",
